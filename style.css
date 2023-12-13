@@ -14,3 +14,10 @@ button {
   margin-top: 10px;
   padding: 5px 10px;
 }
+
+/* style.css */
+
+.card-image {
+  width: 100px;
+  height: auto;
+}
